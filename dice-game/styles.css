@@ -11,25 +11,26 @@
 }
 
 body {
-  background-color: #393E46;
+  background-color: black;
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Press Start 2P', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-size: 4rem;
+  color: white;
 }
 
 p {
-  font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
 }
 
 img {
   width: 80%;
+  filter: grayscale(100%);
 }
 
 footer {
@@ -39,3 +40,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
